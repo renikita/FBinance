@@ -1,1 +1,4 @@
 # FBinance
+
+Creating WPF Project
+
